@@ -1,391 +1,391 @@
 audio_url,description,model_id
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YEBCH7TPgiPc.wav,An engine revving,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YL8dA-2Lu2hY.wav,Someone is whistling,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YL8dA-2Lu2hY.wav,Someone is whistling,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YkHIe4CfaccQ.wav,A goat bleating,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YXIooZl1QdM4.wav,Several loud burps,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YXIooZl1QdM4.wav,Several loud burps,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/Y3XcIVh40pTI.wav,A sleeping person snores loudly,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YkHIe4CfaccQ.wav,A goat bleating,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y3XcIVh40pTI.wav,A sleeping person snores loudly,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YkHIe4CfaccQ.wav,A goat bleating,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YAgaiowyYt88.wav,A door pounding and rattling,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/Y-Sz4z0QwEuM.wav,A person burps loudly,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y-Sz4z0QwEuM.wav,A person burps loudly,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/Y5t6tSW0yT40.wav,Short spraying that stops near the end,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YXIooZl1QdM4.wav,Several loud burps,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y5t6tSW0yT40.wav,Short spraying that stops near the end,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YEBCH7TPgiPc.wav,An engine revving,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YAgaiowyYt88.wav,A door pounding and rattling,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YAgaiowyYt88.wav,A door pounding and rattling,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YAgaiowyYt88.wav,A door pounding and rattling,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y-Sz4z0QwEuM.wav,A person burps loudly,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YXIooZl1QdM4.wav,Several loud burps,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YXIooZl1QdM4.wav,Several loud burps,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YEBCH7TPgiPc.wav,An engine revving,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YkHIe4CfaccQ.wav,A goat bleating,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/Y3XcIVh40pTI.wav,A sleeping person snores loudly,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y-Sz4z0QwEuM.wav,A person burps loudly,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YL8dA-2Lu2hY.wav,Someone is whistling,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YkHIe4CfaccQ.wav,A goat bleating,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YkHIe4CfaccQ.wav,A goat bleating,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YEBCH7TPgiPc.wav,An engine revving,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YkHIe4CfaccQ.wav,A goat bleating,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y5t6tSW0yT40.wav,Short spraying that stops near the end,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y5t6tSW0yT40.wav,Short spraying that stops near the end,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YXIooZl1QdM4.wav,Several loud burps,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/Y3XcIVh40pTI.wav,A sleeping person snores loudly,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/Y3XcIVh40pTI.wav,A sleeping person snores loudly,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YL8dA-2Lu2hY.wav,Someone is whistling,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/Y5t6tSW0yT40.wav,Short spraying that stops near the end,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/Y-Sz4z0QwEuM.wav,A person burps loudly,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YEBCH7TPgiPc.wav,An engine revving,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y5t6tSW0yT40.wav,Short spraying that stops near the end,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/Y3XcIVh40pTI.wav,A sleeping person snores loudly,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/Y3XcIVh40pTI.wav,A sleeping person snores loudly,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YAgaiowyYt88.wav,A door pounding and rattling,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YEBCH7TPgiPc.wav,An engine revving,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y-Sz4z0QwEuM.wav,A person burps loudly,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YXIooZl1QdM4.wav,Several loud burps,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/Y5t6tSW0yT40.wav,Short spraying that stops near the end,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y-Sz4z0QwEuM.wav,A person burps loudly,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YL8dA-2Lu2hY.wav,Someone is whistling,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YAgaiowyYt88.wav,A door pounding and rattling,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YAgaiowyYt88.wav,A door pounding and rattling,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YL8dA-2Lu2hY.wav,Someone is whistling,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YkHIe4CfaccQ.wav,A goat bleating,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/Y-Sz4z0QwEuM.wav,A person burps loudly,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/Y5t6tSW0yT40.wav,Short spraying that stops near the end,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YAgaiowyYt88.wav,A door pounding and rattling,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YAgaiowyYt88.wav,A door pounding and rattling,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/Y-Sz4z0QwEuM.wav,A person burps loudly,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y3XcIVh40pTI.wav,A sleeping person snores loudly,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YXIooZl1QdM4.wav,Several loud burps,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y-Sz4z0QwEuM.wav,A person burps loudly,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YAgaiowyYt88.wav,A door pounding and rattling,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y5t6tSW0yT40.wav,Short spraying that stops near the end,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YL8dA-2Lu2hY.wav,Someone is whistling,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y5t6tSW0yT40.wav,Short spraying that stops near the end,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YEBCH7TPgiPc.wav,An engine revving,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YXIooZl1QdM4.wav,Several loud burps,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YEBCH7TPgiPc.wav,An engine revving,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YL8dA-2Lu2hY.wav,Someone is whistling,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YL8dA-2Lu2hY.wav,Someone is whistling,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YL8dA-2Lu2hY.wav,Someone is whistling,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YEBCH7TPgiPc.wav,An engine revving,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y3XcIVh40pTI.wav,A sleeping person snores loudly,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YkHIe4CfaccQ.wav,A goat bleating,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YkHIe4CfaccQ.wav,A goat bleating,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/Y-Sz4z0QwEuM.wav,A person burps loudly,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YL8dA-2Lu2hY.wav,Someone is whistling,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YXIooZl1QdM4.wav,Several loud burps,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y3XcIVh40pTI.wav,A sleeping person snores loudly,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YEBCH7TPgiPc.wav,An engine revving,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YAgaiowyYt88.wav,A door pounding and rattling,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/Y5t6tSW0yT40.wav,Short spraying that stops near the end,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/Y5t6tSW0yT40.wav,Short spraying that stops near the end,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YkHIe4CfaccQ.wav,A goat bleating,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YXIooZl1QdM4.wav,Several loud burps,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y3XcIVh40pTI.wav,A sleeping person snores loudly,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YEBCH7TPgiPc.wav,An engine revving,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/Y-Sz4z0QwEuM.wav,A person burps loudly,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YEBCH7TPgiPc.wav,An engine revving,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YkHIe4CfaccQ.wav,A goat bleating,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y3XcIVh40pTI.wav,A sleeping person snores loudly,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YEBCH7TPgiPc.wav,An engine revving,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/Y3XcIVh40pTI.wav,A sleeping person snores loudly,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YAgaiowyYt88.wav,A door pounding and rattling,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_full/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,audiobox_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YL8dA-2Lu2hY.wav,Someone is whistling,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audioldm_m/Y-Sz4z0QwEuM.wav,A person burps loudly,audioldm_m
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/tango/YXIooZl1QdM4.wav,Several loud burps,tango
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/Y5t6tSW0yT40.wav,Short spraying that stops near the end,make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,30_final_audiocaps_baseline_2023_07_21_medium_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YL8dA-2Lu2hY.wav,Someone is whistling,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,30_final_audiocaps_baseline_2023_07_16_small_8_200k
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/make_an_audio_2/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",make_an_audio_2
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YkHIe4CfaccQ.wav,A goat bleating,2023_07_21_full_8_ft_ddpm_crossattn_t5
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/audiobox_large_full/YXIooZl1QdM4.wav,Several loud burps,audiobox_large_full
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/groundtruth/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,groundtruth
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,30_final_audiocaps_baseline_2023_07_16_small_8
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/2023_07_16_full_8_ft_ddpm/YAgaiowyYt88.wav,A door pounding and rattling,2023_07_16_full_8_ft_ddpm
-https://github.com/haoheliu/audio_samples_mos/raw/master/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YkHIe4CfaccQ.wav,A goat bleating,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/Y-Sz4z0QwEuM.wav,A person burps loudly,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YAgaiowyYt88.wav,A door pounding and rattling,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y5t6tSW0yT40.wav,Short spraying that stops near the end,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y3XcIVh40pTI.wav,A sleeping person snores loudly,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YL8dA-2Lu2hY.wav,Someone is whistling,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/Y5t6tSW0yT40.wav,Short spraying that stops near the end,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/Y5t6tSW0yT40.wav,Short spraying that stops near the end,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YEBCH7TPgiPc.wav,An engine revving,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YL8dA-2Lu2hY.wav,Someone is whistling,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YkHIe4CfaccQ.wav,A goat bleating,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y3XcIVh40pTI.wav,A sleeping person snores loudly,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y-Sz4z0QwEuM.wav,A person burps loudly,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/Y-Sz4z0QwEuM.wav,A person burps loudly,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/Y-Sz4z0QwEuM.wav,A person burps loudly,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YAgaiowyYt88.wav,A door pounding and rattling,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YXIooZl1QdM4.wav,Several loud burps,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YAgaiowyYt88.wav,A door pounding and rattling,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/Y5t6tSW0yT40.wav,Short spraying that stops near the end,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/Y3XcIVh40pTI.wav,A sleeping person snores loudly,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YL8dA-2Lu2hY.wav,Someone is whistling,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YEBCH7TPgiPc.wav,An engine revving,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YEBCH7TPgiPc.wav,An engine revving,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YAgaiowyYt88.wav,A door pounding and rattling,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YXIooZl1QdM4.wav,Several loud burps,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YAgaiowyYt88.wav,A door pounding and rattling,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YEBCH7TPgiPc.wav,An engine revving,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YL8dA-2Lu2hY.wav,Someone is whistling,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YEBCH7TPgiPc.wav,An engine revving,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YAgaiowyYt88.wav,A door pounding and rattling,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/Y3XcIVh40pTI.wav,A sleeping person snores loudly,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YEBCH7TPgiPc.wav,An engine revving,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YkHIe4CfaccQ.wav,A goat bleating,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YXIooZl1QdM4.wav,Several loud burps,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y5t6tSW0yT40.wav,Short spraying that stops near the end,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YkHIe4CfaccQ.wav,A goat bleating,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YL8dA-2Lu2hY.wav,Someone is whistling,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/Y-Sz4z0QwEuM.wav,A person burps loudly,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/Y-Sz4z0QwEuM.wav,A person burps loudly,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YEBCH7TPgiPc.wav,An engine revving,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YAgaiowyYt88.wav,A door pounding and rattling,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YkHIe4CfaccQ.wav,A goat bleating,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y5t6tSW0yT40.wav,Short spraying that stops near the end,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y5t6tSW0yT40.wav,Short spraying that stops near the end,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/Y3XcIVh40pTI.wav,A sleeping person snores loudly,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y-Sz4z0QwEuM.wav,A person burps loudly,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y3XcIVh40pTI.wav,A sleeping person snores loudly,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YXIooZl1QdM4.wav,Several loud burps,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YXIooZl1QdM4.wav,Several loud burps,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YkHIe4CfaccQ.wav,A goat bleating,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YXIooZl1QdM4.wav,Several loud burps,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YEBCH7TPgiPc.wav,An engine revving,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YkHIe4CfaccQ.wav,A goat bleating,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YEBCH7TPgiPc.wav,An engine revving,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YkHIe4CfaccQ.wav,A goat bleating,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y-Sz4z0QwEuM.wav,A person burps loudly,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YEBCH7TPgiPc.wav,An engine revving,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YkHIe4CfaccQ.wav,A goat bleating,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YkHIe4CfaccQ.wav,A goat bleating,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/Y5t6tSW0yT40.wav,Short spraying that stops near the end,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YAgaiowyYt88.wav,A door pounding and rattling,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y-Sz4z0QwEuM.wav,A person burps loudly,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y5t6tSW0yT40.wav,Short spraying that stops near the end,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YXIooZl1QdM4.wav,Several loud burps,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YAgaiowyYt88.wav,A door pounding and rattling,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YkHIe4CfaccQ.wav,A goat bleating,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/Y3XcIVh40pTI.wav,A sleeping person snores loudly,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YUmNrhFKpWIY.wav,"A vehicle accelerates and then slows, then speeds up, then stops",2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/Y3XcIVh40pTI.wav,A sleeping person snores loudly,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YXIooZl1QdM4.wav,Several loud burps,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YL8dA-2Lu2hY.wav,Someone is whistling,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YkHIe4CfaccQ.wav,A goat bleating,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YXIooZl1QdM4.wav,Several loud burps,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YL8dA-2Lu2hY.wav,Someone is whistling,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YXIooZl1QdM4.wav,Several loud burps,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YAgaiowyYt88.wav,A door pounding and rattling,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y3XcIVh40pTI.wav,A sleeping person snores loudly,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/Y5t6tSW0yT40.wav,Short spraying that stops near the end,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Y3XcIVh40pTI.wav,A sleeping person snores loudly,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YXIooZl1QdM4.wav,Several loud burps,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YL8dA-2Lu2hY.wav,Someone is whistling,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YAgaiowyYt88.wav,A door pounding and rattling,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/Y3XcIVh40pTI.wav,A sleeping person snores loudly,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/YbAqgL5dCQOE.wav,Rain pouring on a solid surface followed by a vehicle driving by in the distance,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YL8dA-2Lu2hY.wav,Someone is whistling,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YEBCH7TPgiPc.wav,An engine revving,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YAgaiowyYt88.wav,A door pounding and rattling,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/tango/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,tango
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y-Sz4z0QwEuM.wav,A person burps loudly,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/Y5t6tSW0yT40.wav,Short spraying that stops near the end,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YR4fXcbWFhJg.wav,Distant clip clops of horses with a man speaking and a woman screaming,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YL8dA-2Lu2hY.wav,Someone is whistling,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/YL8dA-2Lu2hY.wav,Someone is whistling,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y-Sz4z0QwEuM.wav,A person burps loudly,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YbIiiIo20PsY.wav,A man talking as a swarm of insects are buzzing,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YmW1EpJYcy_E.wav,A motorbike revving and driving by as wind blows heavily into a microphone,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YkHIe4CfaccQ.wav,A goat bleating,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/YXIooZl1QdM4.wav,Several loud burps,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YNeWW30WZjPc.wav,A dog growling and barking repeatedly,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/YAgaiowyYt88.wav,A door pounding and rattling,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/Yjj2RyNDj7no.wav,"Insects are buzzing, and birds are chirping",audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YKVAIaRPry24.wav,Buzzing and scratching with some light banging,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YLVvS3s9dFKw.wav,A man talking as metal pots clang while water pours from a faucet followed by water trickling,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Yrp3CQsWxVgE.wav,"Traffic is present nearby, and a car horn plays the theme to the godfather",2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/audioldm_m/YL8dA-2Lu2hY.wav,Someone is whistling,audioldm_m
+https://github.com/MosSpace/iclr2024/raw/main/audio/groundtruth/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,groundtruth
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/Y-Sz4z0QwEuM.wav,A person burps loudly,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YL8dA-2Lu2hY.wav,Someone is whistling,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y6ukYSXzfEgQ.wav,Pots bang then a faucet turns on and water flows,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/YK2kIOBeCfuo.wav,A crowd of people laughing and cheering as a man speaks on a microphone,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/Y3XcIVh40pTI.wav,A sleeping person snores loudly,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/YIKnx3hJv1bs.wav,Compressed air spraying followed by a power tool buzzing,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y5t6tSW0yT40.wav,Short spraying that stops near the end,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YEBCH7TPgiPc.wav,An engine revving,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/Y-Sz4z0QwEuM.wav,A person burps loudly,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/make_an_audio_2/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,make_an_audio_2
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y4Ujigme2IxY.wav,An engine running and screeching with rustling,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,30_final_audiocaps_baseline_2023_07_16_small_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Y9dLLsZVRSZI.wav,Humming and rustling from a large engine followed by two honks of a horn,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5_medium/YXIooZl1QdM4.wav,Several loud burps,2023_07_21_full_8_ft_ddpm_crossattn_t5_medium
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/YZY4aGEniU_E.wav,Food sizzles as a man speaks with music playing,audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_21_medium_8/Yjlwe9jtu5Gw.wav,A person whistling followed by metal rattling in the background,30_final_audiocaps_baseline_2023_07_21_medium_8
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/YZ1Cyj4N05lk.wav,Musical whistling followed by a man speaking,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_21_full_8_ft_ddpm_crossattn_t5/Y11SEBDuoqSk.wav,Humming of an engine with rapid gunshots,2023_07_21_full_8_ft_ddpm_crossattn_t5
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/Y6aWnK1GyeJY.wav,"A baby cries while electronic speech occurs in the background, an adult female speaks, a sneeze occurs, and an adult female speaks once more",audiobox_large_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_crossattn/Y3XcIVh40pTI.wav,A sleeping person snores loudly,30_final_audiocaps_baseline_2023_07_16_small_8_crossattn
+https://github.com/MosSpace/iclr2024/raw/main/audio/30_final_audiocaps_baseline_2023_07_16_small_8_200k/Ykdflh3akyH8.wav,Several puppies whimpering during cardboard scratching and rattling,30_final_audiocaps_baseline_2023_07_16_small_8_200k
+https://github.com/MosSpace/iclr2024/raw/main/audio/2023_07_16_full_8_ft_ddpm/YEBCH7TPgiPc.wav,An engine revving,2023_07_16_full_8_ft_ddpm
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_full/YHxZADVzNIqs.wav,Water trickles as birds chirp then drums begin to play,audiobox_full
+https://github.com/MosSpace/iclr2024/raw/main/audio/audiobox_large_full/Y5t6tSW0yT40.wav,Short spraying that stops near the end,audiobox_large_full

@@ -37,7 +37,7 @@ for folder in os.listdir(root_path):
     if(not os.path.isdir(os.path.join(root_path, folder))): 
         continue
 
-    remote_url = os.path.join("https://github.com/haoheliu/audio_samples_mos/raw/master/","audio", folder)
+    remote_url = os.path.join("https://github.com/MosSpace/iclr2024/raw/main/","audio", folder)
 
     for each in testfilelist:
         rows.append([os.path.join(remote_url, each), fname_to_transcription[each], folder])
